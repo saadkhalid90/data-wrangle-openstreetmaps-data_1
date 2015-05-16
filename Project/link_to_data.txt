@@ -1,0 +1,9 @@
+Link to the data:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/islamabad_pakistan.osm.bz2
+
+Reasons to choose the data:
+My paternal grandfather used to live in Islamabad and as a child I frequented the city during my vacations. Moreover I have also lived and 
+attended school in the city when I was in grade 9 and 10. Islamabad is the federal capital of Pakistan. It was constructed in late 1960's 
+when President Field Matrtial Ayub Khan decided to shift the capital from Karachi to a place near the General Army Headquarters in Rawalpindi.
+That is the reason why Rawalpindi is also called the twin city of Islamabad. I was not not surprised when I discovered that a lot of data 
+from Rawalpindi was part of the metro extracts osm file. 
